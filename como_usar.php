@@ -11,17 +11,6 @@ td {font-size:11px;}
 .image {background-color:#eee;border:1px solid #ddd;border-bottom:1px solid #bbb;padding:5px;}
 </style>
 
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-47199631-2', 'campusmash.com.br');
-  ga('send', 'pageview');
-
-</script>
-
 </head>
 	<body>
 		<h1>Como participar? <span style="font-size: 20px; color: rgb(182, 182, 182);">#CampusMASH</span></h1>
