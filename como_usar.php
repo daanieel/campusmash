@@ -1,17 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Como usar?</title>
-<style type="text/css">
-body, html {font-family: 'Open Sans', sans-serif;width:100%;margin:0;padding:0;text-align:center;}
-h1 {background-color:#600;color:#fff;padding:20px 0;margin:0;}
-a img {border:0;}
-td {font-size:11px;}
-.image {background-color:#eee;border:1px solid #ddd;border-bottom:1px solid #bbb;padding:5px;}
-</style>
-
-</head>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Como usar?</title>
+		<link href="css/estilo.css" media="all" rel="stylesheet" type="text/css">
+	</head>
 	<body>
 		<h1>Como participar? <span style="font-size: 20px; color: rgb(182, 182, 182);">#CampusMASH</span></h1>
 		
