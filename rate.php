@@ -1,7 +1,4 @@
 <?php
-// Rate orientado
-
-
 
 require_once 'config.php';
 

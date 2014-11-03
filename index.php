@@ -7,10 +7,6 @@
 	
 	$imagesTops = $campusMASH->getTop10();
 	
-	echo '<pre>';
-	//print_r($images);
-	echo '</pre>';
-	
 		
 	?>
 	
